@@ -1,5 +1,3 @@
-# Project release!
+# HIGH UPDATE OUT NOW!
 
-10+ AI models  
-custom themes  
-and more  
+New interface and more
