@@ -1,9 +1,0 @@
-.venv
-__pycache__
-*.pyc
-.env
-.DS_Store
-*.log
-
-# Unlimited Code chat history
-.unlimited_code/
